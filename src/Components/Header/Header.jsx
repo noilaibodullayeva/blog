@@ -1,5 +1,5 @@
 import "./header.css"
-import Img2 from "../pages/home/homepage.webp"
+import Img2 from "../../pages/home/homepage.webp"
 
 
 export default function Header() {
