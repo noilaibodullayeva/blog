@@ -11,7 +11,7 @@ import "./app.css"
 
 
 function App() {
-  const currentUser = true;
+  const currentUser = false;
   return (
     <Router>
       <TopBar />
